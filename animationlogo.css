@@ -1,0 +1,18 @@
+@keyframes divcolor {
+0% {background-color: blueviolet;}
+50% {background-color: aliceblue;}
+100% {background-color: aqua;}
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    animation-name: divcolor;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+
+
+
+
